@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Contact_Required_Fields</fullName>
+        <categories>Contact Management System</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact Required Fields</shortDescription>
+        <value>Compita! El Email es un campo requerido</value>
+    </labels>
+</CustomLabels>
